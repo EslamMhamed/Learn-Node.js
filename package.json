@@ -15,7 +15,7 @@
   "type": "commonjs",
   "main": "1-intro.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "lodash": "^4.17.21"
